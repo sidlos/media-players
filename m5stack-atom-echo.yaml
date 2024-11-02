@@ -57,7 +57,7 @@ binary_sensor:
     on_press:
       - then:
         - homeassistant.event:
-            event: button_pressed
+            event: esphome.button_pressed
             data:
               entity_id: echo_button
 
