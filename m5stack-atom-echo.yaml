@@ -83,3 +83,6 @@ light:
       - pulse:
           transition_length: 250ms
           update_interval: 250ms
+button:
+  - platform: restart
+    name: "Echo speaker Restart"
