@@ -85,4 +85,4 @@ light:
           update_interval: 250ms
 button:
   - platform: restart
-    name: "Echo speaker Restart"
+    name: "Echo Speaker Restart"
